@@ -1,0 +1,9 @@
+# ==============================================================================
+# PROJECT: MLB Stats Master Pro - Dependencies
+# INSTRUCTIONS: Install using 'pip install -r requirements.txt'
+# INSTRUCCIONES: Instalar usando 'pip install -r requirements.txt'
+# ==============================================================================
+
+requests==2.31.0
+pandas==2.2.1
+xlsxwriter==3.2.0
