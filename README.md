@@ -41,7 +41,7 @@ MLB Stats Master Pro es una herramienta avanzada de automatización diseñada pa
 📊 **Proceso en Consola:**
 ![Terminal](proceso.png)
 
-📄 **Reporte Excel Profesional (Sin errores verdes):**
+📄 **Reporte Excel Profesional (Optimización de formato y limpieza de celdas):**
 ![Excel](reporte.png)
 
 ---
