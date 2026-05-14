@@ -1,0 +1,30 @@
+# ==============================================================================
+# PROJECT: MLB Stats Master Pro - Git Ignore Configuration
+# DESCRIPTION: Files and folders to be excluded from version control.
+# DESCRIPCIÓN: Archivos y carpetas que serán excluidos del control de versiones.
+# ==============================================================================
+
+# Python Bytecode & Cache / Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE - PyCharm & VS Code / Entornos de Desarrollo
+.idea/
+.vscode/
+
+# Virtual Environment / Entorno Virtual
+venv/
+env/
+ENV/
+
+# DATA FOLDER: We ignore generated reports / CARPETA DATA: Ignoramos los reportes
+# We want the folder to exist but not the .xlsx files
+# Queremos que la carpeta exista pero no los archivos .xlsx
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# System files / Archivos de sistema
+.DS_Store
+Thumbs.db
